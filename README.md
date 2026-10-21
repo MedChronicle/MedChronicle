@@ -127,11 +127,11 @@ Check out my repositories: **[github.com/MedChronicle?tab=repositories](https://
 
 <br/>
 
-## 📈 Contribution Activity
+## 🏙️ The City I Built This Year
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/3EC1D3/MedChronicle" alt="MedChronicle's GitHub contribution chart" width="100%"/>
+<img src="https://raw.githubusercontent.com/MedChronicle/MedChronicle/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution city" width="100%"/>
 
 </div>
 
