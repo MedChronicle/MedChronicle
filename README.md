@@ -131,7 +131,7 @@ Check out my repositories: **[github.com/MedChronicle?tab=repositories](https://
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MedChronicle&theme=tokyo-night&hide_border=true&bg_color=0f2027&color=3EC1D3&line=2c5364&point=E8F6F3" width="100%"/>
+<img src="https://ghchart.rshah.org/3EC1D3/MedChronicle" alt="MedChronicle's GitHub contribution chart" width="100%"/>
 
 </div>
 
