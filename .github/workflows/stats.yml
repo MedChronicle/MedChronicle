@@ -1,0 +1,28 @@
+name: Generate Stats Card
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=3EC1D3&icon_color=3EC1D3&text_color=E8F6F3
+          path: stats/stats.svg
+          token: ${{ secrets.GH_STATS_TOKEN }}
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats/*.svg
+          git commit -m "Update stats card" || exit 0
+          git push
