@@ -102,7 +102,7 @@ Check out my repositories: **[github.com/MedChronicle?tab=repositories](https://
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=MedChronicle&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=3EC1D3&icon_color=3EC1D3&text_color=E8F6F3" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=MedChronicle&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=3EC1D3&icon_color=3EC1D3&text_color=E8F6F3" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=MedChronicle&theme=tokyonight&hide_border=true&background=0f2027&stroke=2c5364&ring=3EC1D3&fire=3EC1D3&currStreakLabel=3EC1D3" height="165"/>
 
 <br/>
@@ -134,6 +134,17 @@ Check out my repositories: **[github.com/MedChronicle?tab=repositories](https://
 <img src="https://raw.githubusercontent.com/MedChronicle/MedChronicle/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution city" width="100%"/>
 
 </div>
+
+<br/>
+
+## 🚀 Some GitHub Insights
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=301771662" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=301771662&image_size=auto&color_scheme=dark" width="auto" height="auto">
+    <img alt="Dashboard stats of @MedChronicle" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=301771662&image_size=auto&color_scheme=light" width="auto" height="auto">
+  </picture>
+</a>
 
 <br/>
 
